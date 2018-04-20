@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf0b8ed2-b269-48ab-b205-dfd930c090a9" name="Default" comment="" />
+    <list default="true" id="bf0b8ed2-b269-48ab-b205-dfd930c090a9" name="Default" comment="add polymorphism examples">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/predicateExamples/TestPredicateUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Dolphin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/LivesInOcean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Oceanographer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Whale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/HasTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Lemur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/FIParam0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/FIParam1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/TestParameterExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_1/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_10/Book$BookReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_10/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_11/my/apps/FootballGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_11/my/sports/Football.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_12/Browsers$Browser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_12/Browsers$Firefox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_12/Browsers$IE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_12/Browsers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_13/IsItFurry$Chipmunk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_13/IsItFurry$Furry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_13/IsItFurry$Mammal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_13/IsItFurry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_14/IsItFurry$Chipmunk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_14/IsItFurry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_15/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_16/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_16/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_17/AnimalClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_18/Swimmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_19/LearnToWalk$BabyRhino.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_19/LearnToWalk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_2/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_20/FourLegged$BabyRhino.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_20/FourLegged.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_3/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_4/BaseballTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_5/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_6/FlavorsEnum$Flavors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_6/FlavorsEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_7/IceCream$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_7/IceCream$Flavors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_7/IceCream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_8/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_8/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_9/Outer$1Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_9/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_11/my/apps/FootballGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_11/my/apps/FootballGame.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -10,12 +64,83 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="603" />
-    <option name="y" value="-15" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Primate.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-end-line="2" selection-end-column="6" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HasTail.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/HasTail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lemur.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Lemur.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+              <folding>
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="speksy" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/predicateExamples/TestPredicateUsage.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_11/my/apps/FootballGame.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/LivesInOcean.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/Dolphin.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/Whale.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/Oceanographer.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Oceanographer.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/HasTail.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Lemur.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -62,7 +187,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ocp" type="462c0819:PsiDirectoryNode" />
               <item name="designPatternsAndPrincipals" type="462c0819:PsiDirectoryNode" />
-              <item name="ImplOfFunctionalInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="implementingPolymorphism" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="designPatternsAndPrincipals" type="462c0819:PsiDirectoryNode" />
+              <item name="implementingPolymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -88,7 +222,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Lemur">
+    <configuration name="Lemur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp._2.designPatternsAndPrincipals.implementingPolymorphism._2.Lemur" />
+      <module name="ocp-training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ocp._2.designPatternsAndPrincipals.implementingPolymorphism._2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Oceanographer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp._2.designPatternsAndPrincipals.implementingPolymorphism._1.Oceanographer" />
+      <module name="ocp-training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ocp._2.designPatternsAndPrincipals.implementingPolymorphism._1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestPredicateUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ocp._2.designPatternsAndPrincipals.ImplOfFunctionalInterface.predicateExamples.TestPredicateUsage" />
+      <module name="ocp-training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ocp._2.designPatternsAndPrincipals.ImplOfFunctionalInterface.predicateExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -130,6 +297,18 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.TestPredicateUsage" />
+      <item itemvalue="Application.Oceanographer" />
+      <item itemvalue="Application.Lemur" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lemur" />
+        <item itemvalue="Application.Oceanographer" />
+        <item itemvalue="Application.TestPredicateUsage" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -142,24 +321,34 @@
       <option name="presentableId" value="Default" />
       <updated>1524261226285</updated>
     </task>
+    <task id="LOCAL-00001" summary="test intellij git integration">
+      <created>1524261768463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524261768463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32939914" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
+      <window_info anchor="bottom" id="Version Control" weight="0.33261803" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3256785" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -167,7 +356,6 @@
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -177,6 +365,106 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test intellij git integration" />
+    <MESSAGE value="add polymorphism examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="add polymorphism examples" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/predicateExamples/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_11/my/apps/FootballGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/predicateExamples/TestPredicateUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Dolphin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/LivesInOcean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Oceanographer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Whale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/HasTail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Lemur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
