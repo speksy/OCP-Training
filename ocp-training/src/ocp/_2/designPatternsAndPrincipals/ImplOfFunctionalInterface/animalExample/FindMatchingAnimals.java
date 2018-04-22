@@ -22,7 +22,7 @@ public class FindMatchingAnimals {
     }
 
     // Duck lambda3 test
-    // animal, pate, (Animal a,Duck d )-> d.quack()
+    // animal, pate, (AnimalMutable a,Duck d )-> d.quack()
     // animal, pate, (a,d)-> d.quack()
     private static void getThirdDuckIfAnimal(Animal animal, Duck duck, FIDuckThird ducking) {
         System.out.println(ducking.test(animal,duck));

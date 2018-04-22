@@ -2,8 +2,8 @@ package ocp._2.designPatternsAndPrincipals.ImplOfFunctionalInterface.animalExamp
 
 import ocp._2.designPatternsAndPrincipals.ImplOfFunctionalInterface.animalExample.Animal;
 
-// lambda1: new Animal("kangaroo",true,false),Animal::canHop
-// lambda2: new Animal("brat na kangaroo",true,false),a -> a.canHop()
+// lambda1: new AnimalMutable("kangaroo",true,false),AnimalMutable::canHop
+// lambda2: new AnimalMutable("brat na kangaroo",true,false),a -> a.canHop()
 @FunctionalInterface
 public interface CheclTrait {
     public boolean test(Animal a);

@@ -1,4 +1,4 @@
-group 'ocp'
+group 'ocp-training'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'

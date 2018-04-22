@@ -2,59 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf0b8ed2-b269-48ab-b205-dfd930c090a9" name="Default" comment="add polymorphism examples">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/predicateExamples/TestPredicateUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Dolphin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/LivesInOcean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Oceanographer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Whale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/HasTail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Lemur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ccp-training-gradle/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ccp-training-gradle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ccp-training-gradle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/EncapsulatingData/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Capybara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Roden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/AnimalBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/BuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/FoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Hay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Pallets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/ZooKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/AnimalImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/AnimalMutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/ImmutableModifingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/common-strategy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/HayStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/LlamaTrainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/StaffRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/VisitorTicketTrackerDoubleChecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/VisitorsTicketTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/javaBeans/convetion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimbTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/Chipmunk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/EasternChipmunk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/FI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/FIParam0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/FIParam1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/TestParameterExamples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_1/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_10/Book$BookReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_10/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_11/my/apps/FootballGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_11/my/sports/Football.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_12/Browsers$Browser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_12/Browsers$Firefox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_12/Browsers$IE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_12/Browsers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_13/IsItFurry$Chipmunk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_13/IsItFurry$Furry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_13/IsItFurry$Mammal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_13/IsItFurry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_14/IsItFurry$Chipmunk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_14/IsItFurry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_15/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_16/Outer$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_16/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_17/AnimalClasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_18/Swimmer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_19/LearnToWalk$BabyRhino.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_19/LearnToWalk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_2/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_20/FourLegged$BabyRhino.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_20/FourLegged.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_3/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_4/BaseballTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_5/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_6/FlavorsEnum$Flavors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_6/FlavorsEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_7/IceCream$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_7/IceCream$Flavors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_7/IceCream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_8/Outer$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_8/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_9/Outer$1Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/reviewQuestions/_9/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_11/my/apps/FootballGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_11/my/apps/FootballGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/ocp-training-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/ocp-training-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/virtualMethodInvocation/PlayWithAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/virtualMethodInvocation/PlayWithAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/CheclTrait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/CheclTrait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FindMatchingAnimals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FindMatchingAnimals.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,39 +58,108 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Primate.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java">
+      <file leaf-file-name="FoodFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/FoodFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_1/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CanClimb.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CanClimbTrees.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimbTrees.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="6" selection-start-line="2" selection-end-line="2" selection-end-column="6" />
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chipmunk.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/Chipmunk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EasternChipmunk.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/EasternChipmunk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
               <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HasTail.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/HasTail.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_3/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="408">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lemur.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Lemur.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-              <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/FI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZooKeeper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/ZooKeeper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -106,8 +169,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -119,6 +182,17 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+          <option name="moduleName" value="ocp-training" />
+          <option name="title" value="ocp-training (Bundled Groovy 2.4.12)" />
+        </Entry>
+      </list>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -129,15 +203,50 @@
         <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/Whale.java" />
         <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/Oceanographer.java" />
         <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Oceanographer.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java" />
         <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/HasTail.java" />
         <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Lemur.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Bird.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Fish.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Capybara.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/EncapsulatingData/Animal.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/javaBeans/convetion.txt" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/HayStorage.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/LlamaTrainer.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/StaffRegister.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/VisitorsTicketTracker.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/VisitorTicketTrackerDoubleChecked.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/common-strategy.txt" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/Animal.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/AnimalMutable.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Fly.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/AnimalImmutable.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/ImmutableModifingTest.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/Animal.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/Animal.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/BuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/AnimalBuilder.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Hay.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Pallets.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Fish.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/FoodFactory.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/ZooKeeper.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Food.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_1/Test.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimb.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimbTrees.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/Chipmunk.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/EasternChipmunk.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_3/Test.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/FI.java" />
+        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/Test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="811" />
+    <option name="width" value="1116" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -155,6 +264,23 @@
             <path>
               <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
               <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
@@ -187,7 +313,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ocp" type="462c0819:PsiDirectoryNode" />
               <item name="designPatternsAndPrincipals" type="462c0819:PsiDirectoryNode" />
-              <item name="implementingPolymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="reviewQuestions_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
@@ -195,8 +321,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ocp" type="462c0819:PsiDirectoryNode" />
               <item name="designPatternsAndPrincipals" type="462c0819:PsiDirectoryNode" />
-              <item name="implementingPolymorphism" type="462c0819:PsiDirectoryNode" />
-              <item name="_2" type="462c0819:PsiDirectoryNode" />
+              <item name="reviewQuestions_2" type="462c0819:PsiDirectoryNode" />
+              <item name="_4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,10 +331,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ocp._2.designPatternsAndPrincipals.designPatterns.builderPattern" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -222,42 +355,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lemur">
-    <configuration name="Lemur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp._2.designPatternsAndPrincipals.implementingPolymorphism._2.Lemur" />
-      <module name="ocp-training" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ocp._2.designPatternsAndPrincipals.implementingPolymorphism._2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Oceanographer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp._2.designPatternsAndPrincipals.implementingPolymorphism._1.Oceanographer" />
-      <module name="ocp-training" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ocp._2.designPatternsAndPrincipals.implementingPolymorphism._1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestPredicateUsage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp._2.designPatternsAndPrincipals.ImplOfFunctionalInterface.predicateExamples.TestPredicateUsage" />
-      <module name="ocp-training" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ocp._2.designPatternsAndPrincipals.ImplOfFunctionalInterface.predicateExamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="ocp-training" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -297,18 +429,6 @@
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="Application.TestPredicateUsage" />
-      <item itemvalue="Application.Oceanographer" />
-      <item itemvalue="Application.Lemur" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Lemur" />
-        <item itemvalue="Application.Oceanographer" />
-        <item itemvalue="Application.TestPredicateUsage" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -328,27 +448,34 @@
       <option name="project" value="LOCAL" />
       <updated>1524261768463</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add polymorphism examples">
+      <created>1524264670179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524264670179</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="811" y="0" width="1116" height="1047" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Messages" weight="0.33551913" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5009091" side_tool="true" visible="true" weight="0.32296136" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4990909" visible="true" weight="0.32296136" />
       <window_info anchor="bottom" id="Version Control" weight="0.33261803" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3256785" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20181818" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32896176" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -362,6 +489,35 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32939914" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20090498" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32896176" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.33261803" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.33551913" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -372,20 +528,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add polymorphism examples" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/predicateExamples/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_11/my/apps/FootballGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/predicateExamples/TestPredicateUsage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -436,13 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/HasTail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Lemur.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -454,14 +589,407 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java">
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Bird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="84" selection-start-line="5" selection-start-column="84" selection-end-line="5" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Roden.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Capybara.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/HasTail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#124#125#0" expanded="true" />
             <element signature="e#151#152#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/EncapsulatingData/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/javaBeans/convetion.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="48" column="104" selection-start-line="48" selection-start-column="104" selection-end-line="48" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/LlamaTrainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/HayStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/StaffRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/VisitorsTicketTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/VisitorTicketTrackerDoubleChecked.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/common-strategy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Fly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/AnimalMutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/ImmutableModifingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/AnimalImmutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FindMatchingAnimals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+          <folding>
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/BuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/AnimalBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Hay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Pallets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocp-training.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/ZooKeeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/FoodFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimbTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/Chipmunk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/EasternChipmunk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_3/ArcticMountainClimb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_3/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/FI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
