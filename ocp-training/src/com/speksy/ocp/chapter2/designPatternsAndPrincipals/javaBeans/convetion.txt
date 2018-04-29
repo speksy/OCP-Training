@@ -1,0 +1,49 @@
+Encapsulation is so prevalent in Java that there is a standard for creating classes that store
+data, called JavaBeans. A JavaBean is a design principle for encapsulating data in an object
+in Java. Table 2.1 lists the rules for naming JavaBeans.
+
+1) Properties are private.
+
+    private int age;
+
+2) Getter for non‐boolean properties begins
+with get.
+
+
+    public int getAge() {
+        return age;
+    }
+
+3) Getters for boolean properties may begin
+with is or get.
+
+    public boolean isBird() {
+        return bird;
+    }
+    public boolean getBird() {
+        return bird;
+    }
+
+4) Setter methods begin with set.
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+5) The method name must have a prefix of
+set/get/is followed by the first letter of the
+property in uppercase and followed by the
+rest of the property name.
+
+    public void setNumChildren (int numChildren) {
+        this.numChildren = numChildren;
+    }
+
+
+Example 1)
+private boolean playing;
+private Boolean dancing;
+
+public boolean isPlaying() { return playing; }  ----> correct boolean can start with is..
+public boolean getPlaying() { return playing; } ----> correct get boolean can start with get
+public Boolean isDancing() { return dancing; } ----> incorrect Boolean is wrapper class and it is object
