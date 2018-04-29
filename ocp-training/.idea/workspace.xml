@@ -5,229 +5,42 @@
       <change afterPath="$PROJECT_DIR$/../ccp-training-gradle/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ccp-training-gradle/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ccp-training-gradle/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/abstractClasses/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/instanceOf/Elephant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/instanceOf/HeavyAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/instanceOf/Hippo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/instanceOf/Mother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/overloadingAndOverriding/Bobcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_11/my/apps/FootballGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_14/CanHop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_14/TurtleFrog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_19/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_2/CanClimb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_2/CanClimbTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_2/Chipmunk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_20/CanFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_4/FI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ArrayAndArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ConvertArrayToArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/SearchingAndSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/RWS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/theDIamondOperator/Doggies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/theDIamondOperator/TheDIamondOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/wrapperClassesAutoboxing/WrapperClassesAutoboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/UnboundedWildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/WildcardWithLowerBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/WildcardWithUpperBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/example1/WorkingWithGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/Crate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/CrateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/Shippable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/ShippableAbstractCrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/ShippableRobotCrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/SizeLimitedCrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/SizeLimitedCrateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericMethods/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/LegacyAutoboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/LegacyDragons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/Unicorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/unboundedWildcards/ListOfEverything.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/unboundedWildcards/UnboundedWildcards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/ABCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/GenericSupertypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/LogicallyImutable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/Exam Essentials" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/abstractClasses/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/abstractClasses/Lion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/cat/BigCat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/cat/CatAdmirer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/cat/species/Lynx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/coddingEqualsHashCodeAndToString/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/coddingEqualsHashCodeAndToString/FirstExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/coddingEqualsHashCodeAndToString/Hippo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/coddingEqualsHashCodeAndToString/Lion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/enums/OnlyOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/enums/Season.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/enums/SeasonWithAbstractMethod$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/enums/SeasonWithAbstractMethod$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/enums/SeasonWithAbstractMethod$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/enums/SeasonWithAbstractMethod$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/enums/SeasonWithAbstractMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/enums/SeasonWithState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/enums/SeasonWithStateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/enums/SeasonsTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/enums/SeasonsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/imports/ListHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/instanceOf/Elephant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/instanceOf/HeavyAnimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/instanceOf/Hippo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/instanceOf/Mother.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/instanceOf/TestInstanceOf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/mouse/Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/A$B$C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/A$B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/CaseOfPrivateInterface$DontTell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/CaseOfPrivateInterface$Secret.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/CaseOfPrivateInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/LocalInnerClasses/Outer$1Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/LocalInnerClasses/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/Outer$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/anonymousInnerClasses/AnonInner$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/anonymousInnerClasses/AnonInner$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/anonymousInnerClasses/AnonInner$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/anonymousInnerClasses/AnonInner$SaleTodayOnly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/anonymousInnerClasses/AnonInner$SaleTodayOnlyI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/anonymousInnerClasses/AnonInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/staticNestedClasses/Enclosing$Nested.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/staticNestedClasses/Enclosing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/overloadingAndOverriding/Bobcat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/overloadingAndOverriding/BobcatKitten.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/virtualMethodInvocation/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/virtualMethodInvocation/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/virtualMethodInvocation/Cow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/virtualMethodInvocation/Lion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/virtualMethodInvocation/PlayWithAnimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_1/advancedClassesDesign/virtualMethodInvocation/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/CheclTrait.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FIDuckFirst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FIDuckSecond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FIDuckThird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FindMatchingAnimals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Egale.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Fly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Lion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Run.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ocp-training/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Walk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/Exam Essentials" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/Exam Essentials" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/abstractClasses/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/abstractClasses/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/abstractClasses/Lion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/cat/BigCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/cat/BigCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/cat/CatAdmirer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/cat/CatAdmirer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/cat/species/Lynx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/cat/species/Lynx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/coddingEqualsHashCodeAndToString/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/coddingEqualsHashCodeAndToString/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/coddingEqualsHashCodeAndToString/FirstExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/coddingEqualsHashCodeAndToString/FirstExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/coddingEqualsHashCodeAndToString/Hippo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/coddingEqualsHashCodeAndToString/Hippo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/coddingEqualsHashCodeAndToString/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/coddingEqualsHashCodeAndToString/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/enums/OnlyOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/enums/OnlyOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/enums/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/enums/Season.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/enums/SeasonWithAbstractMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/enums/SeasonWithAbstractMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/enums/SeasonWithState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/enums/SeasonWithState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/enums/SeasonWithStateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/enums/SeasonWithStateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/enums/SeasonsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/enums/SeasonsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/imports/ListHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/imports/ListHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/instanceOf/Elephant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/instanceOf/HeavyAnimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/instanceOf/Hippo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/instanceOf/Mother.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/instanceOf/TestInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/instanceOf/TestInstanceOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/mouse/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/mouse/Mouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/nestedClasses/memberInnerClasses/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/CaseOfPrivateInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/nestedClasses/memberInnerClasses/CaseOfPrivateInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/LocalInnerClasses/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/nestedClasses/memberInnerClasses/LocalInnerClasses/Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/nestedClasses/memberInnerClasses/Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/anonymousInnerClasses/AnonInner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/nestedClasses/memberInnerClasses/anonymousInnerClasses/AnonInner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/nestedClasses/memberInnerClasses/staticNestedClasses/Enclosing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/nestedClasses/memberInnerClasses/staticNestedClasses/Enclosing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/overloadingAndOverriding/Bobcat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/overloadingAndOverriding/BobcatKitten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/overloadingAndOverriding/BobcatKitten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/virtualMethodInvocation/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/virtualMethodInvocation/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/virtualMethodInvocation/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/virtualMethodInvocation/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/virtualMethodInvocation/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/virtualMethodInvocation/Cow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/virtualMethodInvocation/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/virtualMethodInvocation/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/virtualMethodInvocation/PlayWithAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/virtualMethodInvocation/PlayWithAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/advancedClassesDesign/virtualMethodInvocation/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/virtualMethodInvocation/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_1/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_10/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_10/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_11/my/apps/FootballGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_11/my/sports/Football.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_11/my/sports/Football.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_12/Browsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_12/Browsers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_13/IsItFurry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_13/IsItFurry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_14/IsItFurry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_14/IsItFurry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_15/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_15/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_16/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_16/Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_17/AnimalClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_17/AnimalClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_18/Swimmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_18/Swimmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_19/LearnToWalk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_19/LearnToWalk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_2/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_20/FourLegged.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_20/FourLegged.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_21/Otter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_21/Otter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_21/RiverOtter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_21/RiverOtter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_3/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_3/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_4/BaseballTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_4/BaseballTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_5/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_5/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_6/FlavorsEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_6/FlavorsEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_7/IceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_7/IceCream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_8/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_8/Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_1/reviewQuestions/_9/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_9/Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/EncapsulatingData/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/CheclTrait.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FIDuckFirst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FIDuckSecond.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FIDuckThird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FIParam1_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FindMatchingAnimals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/parametersExamples/FIParam0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/parametersExamples/FIParam1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/parametersExamples/TestParameterExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/predicateExamples/TestPredicateUsage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Bird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Capybara.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Fish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Roden.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/AnimalBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/BuilderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Fish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Food.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/FoodFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Hay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Pallets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/ZooKeeper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/AnimalImmutable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/AnimalMutable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/ImmutableModifingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/common-strategy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/HayStorage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/LlamaTrainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/StaffRegister.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/VisitorTicketTrackerDoubleChecked.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/VisitorsTicketTracker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Egale.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Fly.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Lion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Walk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Dolphin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/LivesInOcean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Oceanographer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Whale.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/HasTail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Lemur.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/javaBeans/convetion.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_10/CanRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_10/CanRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_10/CanSprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_10/CanSprint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_10/CanWalk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_10/CanWalk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_11/MySecret.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_11/MySecret.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_11/Secret.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_11/Secret.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_12/Climb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_12/Climb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_12/Climber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_12/Climber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_13/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_13/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_14/BrazilianHornedFrog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_14/BrazilianHornedFrog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_14/CanHop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_14/Frog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_14/Frog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_14/TurtleFrog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_15/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_15/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_16/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_16/Herbivore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_17/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_17/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_18/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_18/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_2/CanClimb.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_2/CanClimbTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_2/Chipmunk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_2/EasternChipmunk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_2/EasternChipmunk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_3/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_4/FI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_4/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_5/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_6/Panda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_6/Panda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_7/Seal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_7/Seal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_8/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_8/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_9/CheetahManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_9/CheetahManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ArrayAndArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/arrayAndArrayList/ArrayAndArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ConvertArrayToArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/convertArrayToArrayList/ConvertArrayToArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/SearchingAndSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/searchingAndSorting/SearchingAndSorting.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -249,47 +62,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ArrayAndArrayListTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ArrayAndArrayListTest.java">
+      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConvertArrayToArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ConvertArrayToArrayList.java">
+      <file leaf-file-name="B.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/C.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ABCTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/ABCTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="12" />
+              <caret line="12" column="75" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchingAndSorting.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/SearchingAndSorting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DualPivotQuicksort.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/DualPivotQuicksort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1812">
-              <caret line="287" column="11" lean-forward="true" selection-start-line="287" selection-start-column="11" selection-end-line="287" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -300,6 +107,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -326,48 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_1/Oceanographer.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/HasTail.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Lemur.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Bird.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Fish.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/castingObjectReferences/Capybara.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/implementingPolymorphism/_2/Primate.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/EncapsulatingData/Animal.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/javaBeans/convetion.txt" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/HayStorage.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/LlamaTrainer.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/StaffRegister.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/VisitorsTicketTracker.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/singleton/VisitorTicketTrackerDoubleChecked.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/common-strategy.txt" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/Animal.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/AnimalMutable.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designingAnInterface/Fly.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/AnimalImmutable.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/immutableObjects/ImmutableModifingTest.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/Animal.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/Animal.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/BuilderTest.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/builderPattern/AnimalBuilder.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Hay.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Pallets.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Fish.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/FoodFactory.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/ZooKeeper.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/designPatterns/factoryPattern/Food.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_1/Test.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimb.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimbTrees.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/Chipmunk.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/EasternChipmunk.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_3/Test.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/FI.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/Test.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_18/Test.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_19/Test.java" />
-        <option value="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_20/HasWings.java" />
         <option value="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_20/CanFly.java" />
         <option value="$PROJECT_DIR$/src/ocp/_2/reviewQuestions_2/_20/Falcon.java" />
         <option value="$PROJECT_DIR$/src/ocp/chapter2/reviewQuestions_2/_20/Falcon.java" />
@@ -377,6 +143,48 @@
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ArrayAndArrayListTest.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ConvertArrayToArrayList.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/SearchingAndSorting.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/WrapperClassesAutoboxing.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/TheDIamondOperator.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Doggies.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/WorkingWithGenerics.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Create.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Crate.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/CrateTest.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Elephant.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/SizeLimitedCrate.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/SizeLimitedCrateTest.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/GenericInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Robot.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ShippableRobotCrate.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ShipableAbstractCrate.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ShippableAbstractCrate.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Shippable.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/searchingAndSorting/SearchingAndSorting.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/searchingAndSorting/SearchingAndSorting.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/wrapperClassesAutoboxing.fxml" />
+        <option value="$PROJECT_DIR$/src/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/Doggies.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/Doggies.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/workingWithGenerics/Doggies.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/theDIamondOperator/Doggies.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/example1/WorkingWithGenerics.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/RWS" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericMethods/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/Unicorn.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/LegacyDragons.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/LegacyAutoboxing.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/UnboundedWildcard.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/WildcardWithUpperBound.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/WildcardWithLowerBound.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/unboundedWildcards/UnboundedWildcards.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/unboundedWildcards/ListOfEverything.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/Sparrow.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/Example.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/LogicallyImutable.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/Example2.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/GenericSupertypes.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/B.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/C.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/ABCTest.java" />
       </list>
     </option>
   </component>
@@ -434,7 +242,32 @@
               <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ocp" type="462c0819:PsiDirectoryNode" />
-              <item name="reviewOCACollections" type="462c0819:PsiDirectoryNode" />
+              <item name="genericsAndCollections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="genericsAndCollections" type="462c0819:PsiDirectoryNode" />
+              <item name="reviewCollections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="genericsAndCollections" type="462c0819:PsiDirectoryNode" />
+              <item name="workingWithGenerics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="genericsAndCollections" type="462c0819:PsiDirectoryNode" />
+              <item name="workingWithGenerics" type="462c0819:PsiDirectoryNode" />
+              <item name="upperBoundedWildcards" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -452,6 +285,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.speksy.ocp.chapter3.genericsAndCollections.reviewOCACollections" />
       <recent name="ocp._2.designPatternsAndPrincipals.designPatterns.builderPattern" />
     </key>
   </component>
@@ -467,25 +301,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SearchingAndSorting">
-    <configuration name="ArrayAndArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.genericsAndCollections.reviewOCACollections.ArrayAndArrayListTest" />
+  <component name="RunManager" selected="Application.ListOfEverything">
+    <configuration name="LegacyDragons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.genericsAndCollections.workingWithGenerics.workingWithGenerics.legacyCode.LegacyDragons" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter3.genericsAndCollections.reviewOCACollections.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter3.genericsAndCollections.workingWithGenerics.workingWithGenerics.legacyCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ListOfEverything" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.genericsAndCollections.workingWithGenerics.workingWithGenerics.unboundedWildcards.ListOfEverything" />
+      <module name="ocp-training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.speksy.ocp.chapter3.genericsAndCollections.workingWithGenerics.workingWithGenerics.unboundedWildcards.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="SearchingAndSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.genericsAndCollections.reviewOCACollections.SearchingAndSorting" />
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.genericsAndCollections.reviewCollections.searchingAndSorting.SearchingAndSorting" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter3.genericsAndCollections.reviewOCACollections.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter3.genericsAndCollections.reviewCollections.arrayAndArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WrapperClassesAutoboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.genericsAndCollections.reviewCollections.wrapperClassesAutoboxing.WrapperClassesAutoboxing" />
+      <module name="ocp-training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.speksy.ocp.chapter3.genericsAndCollections.reviewCollections.arrayAndArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -524,6 +380,14 @@
         </option>
         <option name="vmOptions" value="" />
       </ExternalSystemSettings>
+    </configuration>
+    <configuration name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="ocp-training" />
+      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -565,13 +429,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.ocp-training" />
-      <item itemvalue="Application.ArrayAndArrayListTest" />
       <item itemvalue="Application.SearchingAndSorting" />
+      <item itemvalue="Application.WrapperClassesAutoboxing" />
+      <item itemvalue="Groovy.build" />
+      <item itemvalue="Application.LegacyDragons" />
+      <item itemvalue="Application.ListOfEverything" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListOfEverything" />
+        <item itemvalue="Application.LegacyDragons" />
+        <item itemvalue="Groovy.build" />
+        <item itemvalue="Application.WrapperClassesAutoboxing" />
         <item itemvalue="Application.SearchingAndSorting" />
-        <item itemvalue="Application.ArrayAndArrayListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -607,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524432299984</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="+">
+      <created>1524778293322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1524778293322</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -615,18 +492,18 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.33551913" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49803537" weight="0.33476394" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5019646" side_tool="true" visible="true" weight="0.32296136" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.48133594" side_tool="true" visible="true" weight="0.32296136" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49803537" visible="true" weight="0.32296136" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.51866406" visible="true" weight="0.32296136" />
       <window_info anchor="bottom" id="Version Control" sideWeight="0.4990177" weight="0.33261803" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3870334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26719058" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4990177" weight="0.13197425" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -678,322 +555,10 @@
     <MESSAGE value="test intellij git integration" />
     <MESSAGE value="add polymorphism examples" />
     <MESSAGE value="end of design patterns chapter" />
-    <option name="LAST_COMMIT_MESSAGE" value="end of design patterns chapter" />
+    <MESSAGE value="+" />
+    <option name="LAST_COMMIT_MESSAGE" value="+" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/javaBeans/convetion.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="48" column="104" selection-start-line="48" selection-start-column="104" selection-end-line="48" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/singleton/LlamaTrainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/singleton/HayStorage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding>
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/singleton/StaffRegister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/singleton/VisitorsTicketTracker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/singleton/VisitorTicketTrackerDoubleChecked.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/immutableObjects/common-strategy.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/immutableObjects/ImmutableModifingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/immutableObjects/AnimalImmutable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/builderPattern/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/ImplOfFunctionalInterface/animalExample/FindMatchingAnimals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
-          <folding>
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/builderPattern/BuilderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/builderPattern/AnimalBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/factoryPattern/Hay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/factoryPattern/Pallets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/factoryPattern/Fish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/factoryPattern/Food.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew.bat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocp-training.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/factoryPattern/ZooKeeper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/CanClimbTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/Chipmunk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_2/EasternChipmunk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_3/ArcticMountainClimb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/FI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ocp/_2/designPatternsAndPrincipals/reviewQuestions_2/_4/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/factoryPattern/FoodFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1078,26 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ArrayAndArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ConvertArrayToArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -1116,10 +661,331 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/SearchingAndSorting.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Create.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/convertArrayToArrayList/ConvertArrayToArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/arrayAndArrayList/ArrayAndArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/wrapperClassesAutoboxing.fxml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/searchingAndSorting/SearchingAndSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/wrapperClassesAutoboxing/WrapperClassesAutoboxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/theDIamondOperator/TheDIamondOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/theDIamondOperator/Doggies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/example1/WorkingWithGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/Elephant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/CrateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/Crate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/Shippable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/ShippableAbstractCrate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/ShippableRobotCrate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/SizeLimitedCrate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/SizeLimitedCrateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/RWS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericMethods/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/Dragon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/Unicorn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/LegacyDragons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/LegacyAutoboxing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/UnboundedWildcard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/WildcardWithUpperBound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/WildcardWithLowerBound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/unboundedWildcards/UnboundedWildcards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/unboundedWildcards/ListOfEverything.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/Sparrow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/LogicallyImutable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/Example2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#232#240#0" expanded="true" />
+            <element signature="e#318#326#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/GenericSupertypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/ABCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="75" selection-start-line="12" selection-start-column="75" selection-end-line="12" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

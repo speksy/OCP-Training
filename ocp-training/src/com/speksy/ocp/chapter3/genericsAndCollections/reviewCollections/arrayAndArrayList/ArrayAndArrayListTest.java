@@ -1,4 +1,4 @@
-package com.speksy.ocp.chapter3.genericsAndCollections.reviewOCACollections;
+package com.speksy.ocp.chapter3.genericsAndCollections.reviewCollections.arrayAndArrayList;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.speksy.ocp.chapter3.genericsAndCollections.reviewOCACollections;
+package com.speksy.ocp.chapter3.genericsAndCollections.reviewCollections.convertArrayToArrayList;
 
 import java.util.Arrays;
 import java.util.List;
