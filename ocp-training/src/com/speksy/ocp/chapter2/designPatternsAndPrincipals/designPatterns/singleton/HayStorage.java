@@ -1,5 +1,5 @@
 package com.speksy.ocp.chapter2.designPatternsAndPrincipals.designPatterns.singleton;
-// Singleton example
+// Singleton mapIfAbsent
 // singleton class is effectively final
 public class HayStorage {
     private int quantity = 0;

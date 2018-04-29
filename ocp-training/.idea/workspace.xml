@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf0b8ed2-b269-48ab-b205-dfd930c090a9" name="Default" comment="add polymorphism examples">
-      <change afterPath="$PROJECT_DIR$/../ccp-training-gradle/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ccp-training-gradle/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ccp-training-gradle/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/advancedClassesDesign/overloadingAndOverriding/Bobcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/Choosing the right collection type" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/map/MapTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/usingQueueInterface/UsingQueueInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/usingSetInterface/WorkingWithNavigableSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/usingSetInterface/WorkingWithSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/wokingWithList/TestList.java" afterDir="false" />
+    <list default="true" id="bf0b8ed2-b269-48ab-b205-dfd930c090a9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/loopingCollection/LoopingThroughCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/mapAPIJava8/mapIfAbsent/Exmple1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/mapAPIJava8/merge/MergeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/removingConditionally/RemovingConditionaly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/updatingAllElements/UpdatingAllElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/DuckHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/DuckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/MethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparable/example1/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparable/example2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparable/example3/LegacyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example1/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example1/DuckComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example2/ChainingComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example2/MultiFieldComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example2/Squirrel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/SortAndBinartSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/SortRabbits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/SortRabbits2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/UseTreeSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/ABCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/ABCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/ImplOfFunctionalInterface/parametersExamples/TestParameterExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/ImplOfFunctionalInterface/parametersExamples/TestParameterExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/singleton/HayStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/singleton/HayStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/singleton/VisitorTicketTrackerDoubleChecked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/designPatternsAndPrincipals/designPatterns/singleton/VisitorTicketTrackerDoubleChecked.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +48,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WorkingWithSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/usingSetInterface/WorkingWithSet.java">
+      <file leaf-file-name="UpdatingAllElements.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/updatingAllElements/UpdatingAllElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WorkingWithNavigableSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/usingSetInterface/WorkingWithNavigableSet.java">
+      <file leaf-file-name="LoopingThroughCollection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/loopingCollection/LoopingThroughCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsingQueueInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/usingQueueInterface/UsingQueueInterface.java">
+      <file leaf-file-name="Exmple1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/mapAPIJava8/mapIfAbsent/Exmple1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state>
+              <caret column="61" selection-start-column="61" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,23 +84,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapTypes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/map/MapTypes.java">
+      <file leaf-file-name="MergeTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/mapAPIJava8/merge/MergeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            <state relative-caret-position="270">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Choosing the right collection type" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/Choosing the right collection type">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
             </state>
           </provider>
         </entry>
@@ -125,29 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ConvertArrayToArrayList.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/SearchingAndSorting.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/WrapperClassesAutoboxing.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/TheDIamondOperator.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Doggies.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/WorkingWithGenerics.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Create.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Crate.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/CrateTest.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Elephant.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/SizeLimitedCrate.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/SizeLimitedCrateTest.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/GenericInterface.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Robot.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ShippableRobotCrate.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ShipableAbstractCrate.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/ShippableAbstractCrate.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/Shippable.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewOCACollections/searchingAndSorting/SearchingAndSorting.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/searchingAndSorting/SearchingAndSorting.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/wrapperClassesAutoboxing.fxml" />
-        <option value="$PROJECT_DIR$/src/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/Doggies.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/Doggies.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/workingWithGenerics/Doggies.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/theDIamondOperator/Doggies.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/example1/WorkingWithGenerics.java" />
@@ -176,6 +157,29 @@
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/usingQueueInterface/UsingQueueInterface.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/map/MapTypes.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/Choosing the right collection type" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparable/example1/Duck.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparable/example2/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparable/example3/LegacyDuck.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example1/Duck.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example1/DuckComparator.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example2/Squirrel.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example2/MultiFieldComparator.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example2/ChainingComparator.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/SortRobots.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/SortRabbits2.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/SortAndBinartSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/Duck.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/UseTreeSet.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/DuchHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/DuckTest.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/MethodRef.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/RemovingConditionaly.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/UpdatingAllElements.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/LoopingThroughCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/mapAPIJava8/Exmple1.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/mapAPIJava8/example/Exmple1.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/mapAPIJava8/mapIfAbsent/Exmple1.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/mapAPIJava8/merge/MergeTest.java" />
       </list>
     </option>
   </component>
@@ -203,23 +207,6 @@
             <path>
               <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
               <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="tmp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -233,7 +220,34 @@
               <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ocp" type="462c0819:PsiDirectoryNode" />
-              <item name="genericsAndCollections" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="additionsInJava8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="additionsInJava8" type="462c0819:PsiDirectoryNode" />
+              <item name="mapAPIJava8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="additionsInJava8" type="462c0819:PsiDirectoryNode" />
+              <item name="mapAPIJava8" type="462c0819:PsiDirectoryNode" />
+              <item name="merge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,6 +265,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.speksy.ocp.chapter3.searchingAndSorting.example1" />
       <recent name="com.speksy.ocp.chapter3.genericsAndCollections.reviewOCACollections" />
       <recent name="ocp._2.designPatternsAndPrincipals.designPatterns.builderPattern" />
     </key>
@@ -267,47 +282,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapTypes">
-    <configuration name="MapTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.genericsAndCollections.usingListSetsMapsQueues.map.MapTypes" />
+  <component name="RunManager" selected="Application.MergeTest">
+    <configuration name="DuckTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.additionsInJava8.usingMethodReferences.DuckTest" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter3.genericsAndCollections.usingListSetsMapsQueues.map.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter3.additionsInJava8.removingConditionally.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="UsingQueueInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.genericsAndCollections.usingListSetsMapsQueues.usingQueueInterface.UsingQueueInterface" />
+    <configuration name="Exmple1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.additionsInJava8.mapAPIJava8.mapIfAbsent.Exmple1" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter3.genericsAndCollections.usingListSetsMapsQueues.usingQueueInterface.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter3.additionsInJava8.mapAPIJava8.mapIfAbsent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="WorkingWithNavigableSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.genericsAndCollections.usingListSetsMapsQueues.usingSetInterface.WorkingWithNavigableSet" />
+    <configuration name="MergeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.additionsInJava8.mapAPIJava8.merge.MergeTest" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter3.genericsAndCollections.usingListSetsMapsQueues.usingQueueInterface.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter3.additionsInJava8.mapAPIJava8.merge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="WorkingWithSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.genericsAndCollections.usingListSetsMapsQueues.usingSetInterface.WorkingWithSet" />
+    <configuration name="RemovingConditionaly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.additionsInJava8.removingConditionally.RemovingConditionaly" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter3.genericsAndCollections.usingListSetsMapsQueues.usingQueueInterface.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter3.additionsInJava8.removingConditionally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="UpdatingAllElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter3.additionsInJava8.updatingAllElements.UpdatingAllElements" />
+      <module name="ocp-training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.speksy.ocp.chapter3.additionsInJava8.removingConditionally.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,14 +372,6 @@
         </option>
         <option name="vmOptions" value="" />
       </ExternalSystemSettings>
-    </configuration>
-    <configuration name="build (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="ocp-training" />
-      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -395,19 +413,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.ocp-training" />
-      <item itemvalue="Application.WorkingWithSet" />
-      <item itemvalue="Groovy.build (1)" />
-      <item itemvalue="Application.WorkingWithNavigableSet" />
-      <item itemvalue="Application.UsingQueueInterface" />
-      <item itemvalue="Application.MapTypes" />
+      <item itemvalue="Application.DuckTest" />
+      <item itemvalue="Application.RemovingConditionaly" />
+      <item itemvalue="Application.UpdatingAllElements" />
+      <item itemvalue="Application.Exmple1" />
+      <item itemvalue="Application.MergeTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapTypes" />
-        <item itemvalue="Application.UsingQueueInterface" />
-        <item itemvalue="Application.WorkingWithNavigableSet" />
-        <item itemvalue="Application.WorkingWithSet" />
-        <item itemvalue="Groovy.build (1)" />
+        <item itemvalue="Application.MergeTest" />
+        <item itemvalue="Application.Exmple1" />
+        <item itemvalue="Application.UpdatingAllElements" />
+        <item itemvalue="Application.RemovingConditionaly" />
+        <item itemvalue="Application.DuckTest" />
       </list>
     </recent_temporary>
   </component>
@@ -457,28 +475,41 @@
       <option name="project" value="LOCAL" />
       <updated>1525009528032</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="rename package">
+      <created>1525026917075</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1525026917075</updated>
+    </task>
+    <task id="LOCAL-00007" summary="rename package">
+      <created>1525026975359</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1525026975359</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="893" y="0" width="1034" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49803537" weight="0.33156216" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49803537" weight="0.33154505" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5859375" side_tool="true" weight="0.32943678" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.51866406" visible="true" weight="0.3251073" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.4140625" weight="0.33156216" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.51866406" visible="true" weight="0.3304721" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.4140625" weight="0.33154505" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26620826" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4990177" weight="0.13197425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23182711" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4990177" weight="0.38733906" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -498,13 +529,13 @@
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.32939914" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20090498" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.33261803" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
@@ -514,9 +545,9 @@
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.33261803" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info id="Capture Tool" order="3" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.33551913" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info id="Favorites" order="4" side_tool="true" />
@@ -531,200 +562,11 @@
     <MESSAGE value="+" />
     <MESSAGE value="add polymorphism examples" />
     <MESSAGE value="add generics examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add generics examples" />
+    <MESSAGE value="rename package" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename package" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/arrayAndArrayList/ArrayAndArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/wrapperClassesAutoboxing.fxml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/searchingAndSorting/SearchingAndSorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/wrapperClassesAutoboxing/WrapperClassesAutoboxing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/theDIamondOperator/TheDIamondOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/reviewCollections/theDIamondOperator/Doggies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/example1/WorkingWithGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/Elephant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/CrateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/Crate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericClasses/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/Shippable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/ShippableAbstractCrate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/ShippableRobotCrate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/SizeLimitedCrate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericInterfaces/SizeLimitedCrateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/RWS">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/genericMethods/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/Dragon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/Unicorn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/LegacyDragons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/legacyCode/LegacyAutoboxing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/UnboundedWildcard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/WildcardWithUpperBound.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/bounds/WildcardWithUpperBound.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
@@ -734,7 +576,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/bounds/WildcardWithLowerBound.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/bounds/WildcardWithLowerBound.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
@@ -744,7 +586,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/unboundedWildcards/UnboundedWildcards.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/unboundedWildcards/UnboundedWildcards.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
@@ -754,7 +596,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/unboundedWildcards/ListOfEverything.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/unboundedWildcards/ListOfEverything.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
@@ -771,7 +613,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/Example.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/upperBoundedWildcards/Example.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
@@ -781,7 +623,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/LogicallyImutable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/upperBoundedWildcards/LogicallyImutable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
@@ -791,7 +633,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/Example2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/upperBoundedWildcards/Example2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
@@ -807,7 +649,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/GenericSupertypes.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/upperBoundedWildcards/GenericSupertypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
@@ -817,21 +659,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/A.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/upperBoundedWildcards/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/B.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/upperBoundedWildcards/B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/C.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/upperBoundedWildcards/C.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
@@ -859,13 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="124" column="14" lean-forward="true" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1370">
@@ -873,7 +708,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/workingWithGenerics/upperBoundedWildcards/ABCTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/workingWithGenerics/upperBoundedWildcards/ABCTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
@@ -963,8 +798,258 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/genericsAndCollections/usingListSetsMapsQueues/Choosing the right collection type">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
+        <state relative-caret-position="584">
           <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-249">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparable/example1/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparable/example2/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparable/example3/LegacyDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example1/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example1/DuckComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="77" lean-forward="true" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example2/Squirrel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example2/MultiFieldComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/comparatorVsComparable/comparator/example2/ChainingComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/SortRabbits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/SortRabbits2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/SortAndBinartSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/searchingAndSorting/example1/UseTreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/DuckHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/DuckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/usingMethodReferences/MethodRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/removingConditionally/RemovingConditionaly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/updatingAllElements/UpdatingAllElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/loopingCollection/LoopingThroughCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/mapAPIJava8/mapIfAbsent/Exmple1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="61" selection-start-column="61" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="1168" column="14" selection-start-line="1168" selection-start-column="14" selection-end-line="1168" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter3/additionsInJava8/mapAPIJava8/merge/MergeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

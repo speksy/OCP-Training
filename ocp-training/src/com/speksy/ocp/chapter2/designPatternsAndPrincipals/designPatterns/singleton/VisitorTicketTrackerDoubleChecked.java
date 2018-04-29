@@ -6,7 +6,7 @@ method will require synchronization. In practice, this can be costly and can imp
 performance. Synchronization is only needed the first time that the object is created.
 
 The solution is to use double‐checked locking, a design pattern in which we first test if
-synchronization is needed before actually acquiring any locks. The following is an example
+synchronization is needed before actually acquiring any locks. The following is an mapIfAbsent
 rewrite of this method using double‐checked locking:
 
 

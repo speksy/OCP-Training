@@ -19,25 +19,25 @@ public class TestParameterExamples {
 
     public static void main(String[] args) {
 
-        // Param0 - example 1
+        // Param0 - mapIfAbsent 1
         test1(() -> true);
 
-        // Param 1 - example 2
+        // Param 1 - mapIfAbsent 2
         String match = "test";
         String noMatch = "notest";
         test2(match, a -> {
             return a.startsWith("test");
         });
 
-        // Param1 - example 3
+        // Param1 - mapIfAbsent 3
         test2(noMatch, (String a) -> a.startsWith("test"));
 
-        // Param1 - example 4
+        // Param1 - mapIfAbsent 4
         int num = 5;
         test3(num, (int x) -> {
         });
 
-        // Param1 - example 5
+        // Param1 - mapIfAbsent 5
         int num2 = 5;
         test3(num, (int y) -> {
             return;
