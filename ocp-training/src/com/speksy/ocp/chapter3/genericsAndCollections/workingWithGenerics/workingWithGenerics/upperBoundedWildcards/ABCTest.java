@@ -14,5 +14,6 @@ public class ABCTest {
     }
 //    <B extends A> B method3(List<B> list) {
 //        return new B(); // DOES NOT COMPILE
+
 //    }
 }
