@@ -1,4 +1,4 @@
-package com.speksy.ocp.chapter2.designPatternsAndPrincipals.reviewQuestions_2._1;
+package com.speksy.ocp.chapter2.reviewQuestions._1;
 /*
     1. Which of the following statements about design principles and design patterns are true?
     (Choose all that apply.)
@@ -11,7 +11,13 @@ package com.speksy.ocp.chapter2.designPatternsAndPrincipals.reviewQuestions_2._1
     E. Design principles and design patterns tend to produce code that is easier to maintain
     and easier for other developers to read.
 
-    Result: A), E)
+    Result: C), E)
+
+    C, E. Option A is incorrect as a design pattern is focused on solving a specific commonly
+    occurring problem. Option B is also incorrect, as design principles and design patterns are
+    different, despite both promoting better code development. Option D is incorrect as design
+    patterns may be applied to static or non-static classes alike. Options C and E are correct
+    statements about design principles and design patterns.
 * */
 public class Test {
 }

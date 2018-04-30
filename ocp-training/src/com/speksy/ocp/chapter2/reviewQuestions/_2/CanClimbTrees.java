@@ -1,4 +1,4 @@
-package com.speksy.ocp.chapter2.designPatternsAndPrincipals.reviewQuestions_2._2;
+package com.speksy.ocp.chapter2.reviewQuestions._2;
 
 public interface CanClimbTrees extends CanClimb {
 }
