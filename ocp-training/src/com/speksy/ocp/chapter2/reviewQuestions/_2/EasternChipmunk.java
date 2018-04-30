@@ -1,4 +1,4 @@
-package com.speksy.ocp.chapter2.designPatternsAndPrincipals.reviewQuestions_2._2;
+package com.speksy.ocp.chapter2.reviewQuestions._2;
 /*
     2. What is the result of the following code?
 
@@ -10,6 +10,8 @@ package com.speksy.ocp.chapter2.designPatternsAndPrincipals.reviewQuestions_2._2
     F. It compiles but throws an exception at runtime.
 
     Result: A. It compiles and runs without issue.
+
+
 * */
 public class EasternChipmunk extends Chipmunk {
 
