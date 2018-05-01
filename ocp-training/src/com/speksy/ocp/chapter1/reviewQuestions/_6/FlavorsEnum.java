@@ -10,6 +10,10 @@ package com.speksy.ocp.chapter1.reviewQuestions._6;
     F. The code does not compile for a different reason.
 
     B. 1
+
+    B. The ordinal() method of an enum returns its corresponding int value. Like arrays,
+    enums are zero based. Remember that the index of an enum may change when you recompile
+    the code and should not be used for comparison.
 * */
 public class FlavorsEnum {
     enum Flavors{

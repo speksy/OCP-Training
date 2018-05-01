@@ -12,6 +12,12 @@ package com.speksy.ocp.chapter1.reviewQuestions._2;
     F. The code does not compile for another reason.
 
     Result A. The code compiles.
+
+    A. hashCode() is correct and perfectly reasonable given that equals() also checks that
+    field. ClassCastException is a runtime exception and therefore does not need to be handled
+    or declared. The override in equals() is correct. It is common for equals() to refer
+    to a private instance variable. This is legal because it is within the same class, even if it is
+    referring to a different object of the same class.
 */
 public class Book {
     private int ISBN;

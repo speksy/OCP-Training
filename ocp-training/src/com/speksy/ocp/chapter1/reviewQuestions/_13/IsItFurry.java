@@ -10,6 +10,10 @@ package com.speksy.ocp.chapter1.reviewQuestions._13;
     F. null instanceof Chipmunk does not compile.
 
     Result: B. The output is 3.
+
+    B. c is an instance of Chipmunk. It is an instance of any superclasses or interfaces it implements.
+    In this case, those are Furry, Mammal, and Object. null is not an instance of any
+    type. Therefore, the first two if statements execute and result is 3.
 * */
 public class IsItFurry {
     static interface Mammal {}

@@ -9,6 +9,9 @@ package com.speksy.ocp.chapter1.reviewQuestions._12;
     E. A runtime exception is thrown.
 
     Result: E. A runtime exception is thrown. - ClastCastException
+
+    E. The main method tries to cast a Firefox instance to IE. Since IE is not a subclass of
+    Firefox, this throws a ClassCastException.
 * */
 public class Browsers {
     static class Browser {

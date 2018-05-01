@@ -10,6 +10,12 @@ package com.speksy.ocp.chapter1.reviewQuestions._1;
     F. A runtime exception is thrown.
 
     Result: A. Success - (equals does not have override annotation and it compile )
+
+    A. Based on the equals() method in the code, objects are equal if they have the same
+    employeeId. The hashCode() method correctly overrides the one from Object. The
+    equals() method is an overload of the one from Object and not an override. It would be
+    better to pass Object since an override would be better to use here. It is odd to override
+    hashCode() and not equals().
 */
 
 public class Employee {

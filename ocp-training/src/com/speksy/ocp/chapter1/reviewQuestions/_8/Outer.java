@@ -12,6 +12,8 @@ package com.speksy.ocp.chapter1.reviewQuestions._8;
 
     Result: C. Line 4 generates a compiler error. - Member Inner Classes could not have static fields
 
+    C. Inner is a member inner class. Inner classes are not allowed to contain static methods
+    or static variables. Only nested static classes are permitted to contain statics.
 * */
 public class Outer {
     private int x = 5;

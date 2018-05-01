@@ -1,4 +1,4 @@
-package com.speksy.ocp.chapter3.searchingAndSorting.example1;
+package com.speksy.ocp.chapter3.searchingAndSorting;
 
 import java.util.Comparator;
 import java.util.Set;

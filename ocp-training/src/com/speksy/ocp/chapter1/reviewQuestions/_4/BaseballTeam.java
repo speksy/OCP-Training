@@ -7,8 +7,12 @@ package com.speksy.ocp.chapter1.reviewQuestions._4;
     C. The class compiles but has an improper hashCode() method.
     D. The class compiles and has proper equals() and hashCode() methods.
 
-    Result: The class compiles but has an improper hashCode() method. - hashCode() method is required to return the same number when called with objects that are equal;
-    equals() method will return true but if the numberOfPlayers are different the result will be different and this is not proper.
+    Result: C) The class compiles but has an improper hashCode() method.
+
+    C. The equals() method is correct. You are allowed to use any business logic that you
+    want in determining equality. The hashCode() method is not correct. It violates the rule
+    that two objects that return true for equals() must return the same hashCode(). It is also
+    a bad idea for the hash code to contain values that could change.
 */
 public class BaseballTeam {
     private String city, mascot;

@@ -3,7 +3,6 @@ package com.speksy.ocp.chapter2.reviewQuestions._10;
 public interface CanSprint extends CanRun , CanWalk{
     void sprint();
 
-    // TODO: !!! This would not be needed if CanRun extend CanWalk - why its not compile if remove walk() from this interface
     @Override
     default void walk() {
 

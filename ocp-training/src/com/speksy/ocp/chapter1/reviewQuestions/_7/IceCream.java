@@ -11,6 +11,10 @@ package com.speksy.ocp.chapter1.reviewQuestions._7;
     F. An exception is thrown.
 
     Result: E. The code does not compile. - cannot use integer with enums in switch statement
+
+    E. A case statement on an enum data type must be the unqualified name of an enumeration
+    constant. For example, case VANILLA would be valid. You cannot use the ordinal equivalents.
+    Therefore, the code does not compile.
 */
 public class IceCream {
     enum Flavors {

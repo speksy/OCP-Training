@@ -11,6 +11,10 @@ package com.speksy.ocp.chapter1.reviewQuestions._18;
     G. The code does not compile.
 
     Result: G. The code does not compile. - All enums should implement hasFins to make code compile.
+
+    G. This question appears to be about enums but is really about abstract methods. Just as
+    an abstract superclass requires concrete subclasses to have an implementation, abstract
+    enum methods require each enum type to implement the method.
 */
 
 public class Swimmer {

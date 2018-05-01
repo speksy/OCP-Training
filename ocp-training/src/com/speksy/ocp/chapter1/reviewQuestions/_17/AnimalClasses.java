@@ -10,20 +10,24 @@ package com.speksy.ocp.chapter1.reviewQuestions._17;
     F. Compiler error on another line.
     G. The code compiles successfully.
 
-    Result: G. The code compiles successfully.
+    Result: B, C)
+
+    B, C. Enums are required to have a semicolon after the list of values if there is anything else
+    in the enum. Don’t worry; you won’t be expected to track down missing semicolons on the
+    whole exam—only on enum questions. Enums are not allowed to have a public constructor.
 */
 public enum AnimalClasses {
-    MAMMAL(true), FISH(Boolean.FALSE), BIRD(false),REPTILE(false), AMPHIBIAN(false), INVERTEBRATE(false);
-    boolean hasHair;
-
-    AnimalClasses(boolean hasHair) {
-        this.hasHair = hasHair;
-    }
-
-    public boolean hasHair() {
-        return hasHair;
-    }
-    public void giveWig() {
-        hasHair = true;
-    }
+//    MAMMAL(true), FISH(Boolean.FALSE), BIRD(false),REPTILE(false), AMPHIBIAN(false), INVERTEBRATE(false)
+//    boolean hasHair;
+//
+////    public AnimalClasses(boolean hasHair) {
+////        this.hasHair = hasHair;
+////    }
+//
+//    public boolean hasHair() {
+//        return hasHair;
+//    }
+//    public void giveWig() {
+//        hasHair = true;
+//    }
 }

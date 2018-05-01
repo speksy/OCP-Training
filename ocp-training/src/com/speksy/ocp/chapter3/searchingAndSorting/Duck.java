@@ -1,4 +1,4 @@
-package com.speksy.ocp.chapter3.searchingAndSorting.example1;
+package com.speksy.ocp.chapter3.searchingAndSorting;
 
 public class Duck implements Comparable<Duck> {
     String name;
