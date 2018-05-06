@@ -2,21 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf0b8ed2-b269-48ab-b205-dfd930c090a9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/usingVariablesInLambdas/Gorilla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/checkingFunctionalInterfaces/CheckThese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/creatingOwnFuncInterface/QuadFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/creatingOwnFuncInterface/TriFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implConsumerAndBiConsumer/TestBiConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implConsumerAndBiConsumer/TestConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implFunctionAndBiFunction/TestBiFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implFunctionAndBiFunction/TestFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implPredicateAndBiPredicate/TestBiPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implPredicateAndBiPredicate/TestPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implSupplier/TestSupplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implUnaryOperatorAndBinaryOperator/TestBinaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implUnaryOperatorAndBinaryOperator/TestUnaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/returningAnOptional/TestOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/puttingToghetherThePipeline/Pipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/puttingToghetherThePipeline/PrintingStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/usingCommonIntermediateOperations/CommonIntermediateOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/creatingPrimitiveStreams/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/examples/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/functionalInterfacesForPrimitives/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/summarizingStatistics/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/usingOptionalPrimStreams/Examples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/usingCommonTerminalOperations/CommonTerminalOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/usingCommonTerminalOperations/CommonTerminalOperations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,23 +33,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestOptional.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/returningAnOptional/TestOptional.java">
+      <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/examples/Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckThese.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/checkingFunctionalInterfaces/CheckThese.java">
+      <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/creatingPrimitiveStreams/Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
+            <state relative-caret-position="505">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Examples.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/usingOptionalPrimStreams/Examples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/summarizingStatistics/Example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/functionalInterfacesForPrimitives/Example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -92,15 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_12/Browsers.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_13/IsItFurry.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_14/IsItFurry.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_15/TestClass.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_16/Outer.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_17/AnimalClasses.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_18/Swimmer.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_19/LearnToWalk.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_20/FourLegged.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_21/Otter.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter1/reviewQuestions/_21/RiverOtter.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_2/Chipmunk.java" />
@@ -143,12 +165,21 @@
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/returningAnOptional/TestOptionalA.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/returningAnOptional/TestOptional.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/returningAnOptional/TestOptional.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/usingCommonTerminalOperations/CommonTerminalOperations.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/usingCommonIntermediateOperations/CommonIntermediateOperators.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/puttingToghetherThePipeline/Pipeline.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/puttingToghetherThePipeline/PrintingStream.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/examples/Example.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/creatingPrimitiveStreams/Example.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/usingOptionalPrimStreams/Examples.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/summarizingStatistics/Example.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/functionalInterfacesForPrimitives/Example.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="872" />
-    <option name="width" value="1055" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -184,6 +215,33 @@
               <item name="ocp" type="462c0819:PsiDirectoryNode" />
               <item name="chapter4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="usingStreams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="usingStreams" type="462c0819:PsiDirectoryNode" />
+              <item name="workingWithPrimitives" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="usingStreams" type="462c0819:PsiDirectoryNode" />
+              <item name="workingWithPrimitives" type="462c0819:PsiDirectoryNode" />
+              <item name="functionalInterfacesForPrimitives" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -195,11 +253,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -220,58 +279,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestOptional">
-    <configuration name="TestBiFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter4.lambdaBuildInFunctionalInterfaces.implFunctionAndBiFunction.TestBiFunction" />
+  <component name="RunManager" selected="Application.Examples">
+    <configuration name="CommonIntermediateOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter4.usingStreams.usingCommonIntermediateOperations.CommonIntermediateOperators" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter4.lambdaBuildInFunctionalInterfaces.implFunctionAndBiFunction.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter4.usingStreams.usingCommonIntermediateOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestBinaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter4.lambdaBuildInFunctionalInterfaces.implUnaryOperatorAndBinaryOperator.TestBinaryOperator" />
+    <configuration name="Example (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter4.usingStreams.workingWithPrimitives.creatingPrimitiveStreams.Example" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter4.lambdaBuildInFunctionalInterfaces.implUnaryOperatorAndBinaryOperator.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter4.usingStreams.workingWithPrimitives.creatingPrimitiveStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter4.lambdaBuildInFunctionalInterfaces.implFunctionAndBiFunction.TestFunction" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter4.usingStreams.workingWithPrimitives.examples.Example" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter4.lambdaBuildInFunctionalInterfaces.implFunctionAndBiFunction.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter4.usingStreams.workingWithPrimitives.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter4.returningAnOptional.TestOptional" />
+    <configuration name="Examples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter4.usingStreams.workingWithPrimitives.usingOptionalPrimStreams.Examples" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter4.returningAnOptional.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter4.usingStreams.workingWithPrimitives.usingOptionalPrimStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TestUnaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter4.lambdaBuildInFunctionalInterfaces.implUnaryOperatorAndBinaryOperator.TestUnaryOperator" />
+    <configuration name="Pipeline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter4.usingStreams.puttingToghetherThePipeline.Pipeline" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter4.lambdaBuildInFunctionalInterfaces.implUnaryOperatorAndBinaryOperator.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter4.usingStreams.puttingToghetherThePipeline.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,19 +410,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.ocp-training" />
-      <item itemvalue="Application.TestFunction" />
-      <item itemvalue="Application.TestBiFunction" />
-      <item itemvalue="Application.TestUnaryOperator" />
-      <item itemvalue="Application.TestBinaryOperator" />
-      <item itemvalue="Application.TestOptional" />
+      <item itemvalue="Application.CommonIntermediateOperators" />
+      <item itemvalue="Application.Pipeline" />
+      <item itemvalue="Application.Example" />
+      <item itemvalue="Application.Example (1)" />
+      <item itemvalue="Application.Examples" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestOptional" />
-        <item itemvalue="Application.TestBinaryOperator" />
-        <item itemvalue="Application.TestUnaryOperator" />
-        <item itemvalue="Application.TestBiFunction" />
-        <item itemvalue="Application.TestFunction" />
+        <item itemvalue="Application.Examples" />
+        <item itemvalue="Application.Example (1)" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.Pipeline" />
+        <item itemvalue="Application.CommonIntermediateOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -455,32 +514,40 @@
       <option name="project" value="LOCAL" />
       <updated>1525184313120</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1525209119308</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1525209119308</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="872" y="0" width="1055" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.49582464" weight="0.33154505" />
+      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.49470645" weight="0.3315393" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.48411936" side_tool="true" visible="true" weight="0.3315393" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.4874739" side_tool="true" visible="true" weight="0.3315393" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.51588064" visible="true" weight="0.3315393" />
-      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.4140625" weight="0.33154505" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.5125261" visible="true" weight="0.3315393" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.41289702" weight="0.3315393" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2877767" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.27139875" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.39914164" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49951878" weight="0.39827773" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -503,90 +570,15 @@
     <MESSAGE value="update chapter 3" />
     <MESSAGE value="cleanup" />
     <MESSAGE value="add questions answers to all chapter and add chapter 3 impl and answers" />
-    <option name="LAST_COMMIT_MESSAGE" value="add questions answers to all chapter and add chapter 3 impl and answers" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_2/EasternChipmunk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-start-column="2" selection-end-line="26" selection-end-column="3" />
-          <folding>
-            <element signature="e#1280#1281#0" expanded="true" />
-            <element signature="e#1345#1346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_2/Chipmunk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_2/CanClimbTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_3/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_14/TurtleFrog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_14/Frog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_14/CanHop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_14/BrazilianHornedFrog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_13/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="20" selection-start-line="15" selection-start-column="14" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_12/Climber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_12/Climb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_11/Secret.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -875,8 +867,103 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/returningAnOptional/TestOptional.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        <state relative-caret-position="392">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="211" column="45" lean-forward="true" selection-start-line="211" selection-start-column="45" selection-end-line="211" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/usingCommonTerminalOperations/CommonTerminalOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/usingCommonIntermediateOperations/CommonIntermediateOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1019" column="31" selection-start-line="1019" selection-start-column="31" selection-end-line="1019" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/puttingToghetherThePipeline/Pipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/puttingToghetherThePipeline/PrintingStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/examples/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/creatingPrimitiveStreams/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/usingOptionalPrimStreams/Examples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/summarizingStatistics/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/functionalInterfacesForPrimitives/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
