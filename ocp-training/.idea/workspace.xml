@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf0b8ed2-b269-48ab-b205-dfd930c090a9" name="Default" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/BasicCollectors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/ExceptionCaseStudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/LinkingStreamsToData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/creatingDateTime/CreateDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/daylightSavingTime/DaylightSavingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/durations/DurationsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/instants/InstantsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/manupulatingDatesTimes/ManipulatingDatesTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/periods/PeriodsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/addingInternalizationLocalization/PickingLocale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/stringClass/StringsDemo.java" afterDir="false" />
+    <list default="true" id="bf0b8ed2-b269-48ab-b205-dfd930c090a9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/AllKeysResourceBundle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/ZooOpen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/createJavaClassResourceBundle/Zoo_en.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/ZooTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_en_CA.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_fr_CA.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/hidingVarInsideRB/TestParamInResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/hidingVarInsideRB/resources/ByName_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/resourceBundles/Tax_en_US.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resources/Zoo_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resources/Zoo_fr.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocp-training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ocp-training.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +39,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DurationsDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/durations/DurationsDemo.java">
+      <file leaf-file-name="Zoo_en.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resources/Zoo_en.properties">
+          <provider editor-type-id="ResourceBundle" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="17">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllKeysResourceBundle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/AllKeysResourceBundle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,38 +61,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InstantsDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/instants/InstantsDemo.java">
+      <file leaf-file-name="Zoo_en.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/createJavaClassResourceBundle/Zoo_en.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringsDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/stringClass/StringsDemo.java">
+      <file leaf-file-name="Tax_en_US.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/resourceBundles/Tax_en_US.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+            <state relative-caret-position="493">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PickingLocale.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/addingInternalizationLocalization/PickingLocale.java">
+      <file leaf-file-name="ZooTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/ZooTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DaylightSavingDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/daylightSavingTime/DaylightSavingDemo.java">
+      <file leaf-file-name="TestParamInResource.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/hidingVarInsideRB/TestParamInResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            <state relative-caret-position="153">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByName_en_US.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/hidingVarInsideRB/resources/ByName_en_US.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zoo.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo.properties">
+          <provider editor-type-id="ResourceBundle" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zoo_en.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_en.properties">
+          <provider editor-type-id="ResourceBundle" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zoo_fr_CA.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_fr_CA.properties">
+          <provider editor-type-id="ResourceBundle" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -88,9 +155,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -116,22 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_11/MySecret.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_12/Climber.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_13/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_14/Frog.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_15/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_16/Herbivore.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_17/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_18/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_19/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_20/Falcon.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/usingVariablesInLambdas/Gorilla.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/implementSupplier/Supplier.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/implementSupplier/TestSupplier.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/creatingOwnFuncInterface/TriFunction.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/creatingOwnFuncInterface/QuadFunction.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/implPredicateAndBiPredicate/TestPredicate.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/implConsumerAndBiConsumer/TestBiConsumer.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/implConsumerAndBiConsumer/TestConsumer.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/implFunctionAndBiFunction/TestBiFunction.java" />
@@ -167,6 +218,22 @@
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/instants/InstantsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/stringClass/StringsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/addingInternalizationLocalization/PickingLocale.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/Zoo_fr.properties" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/Zoo_en.properties" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/Zoo.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/ZooOpen.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resources/Zoo_en.properties" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/AllKeysResourceBundle.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/createJavaClassResourceBundle/Zoo_en.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/resourceBundles/Tax_en_US.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo.properties" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_en.properties" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_en_CA.properties" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_fr.properties" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_fr_CA.properties" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/ZooTest.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/hidingVarInsideRB/resources/ByName_en_US.properties" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/hidingVarInsideRB/TestParamInResource.java" />
       </list>
     </option>
   </component>
@@ -223,7 +290,28 @@
               <item name="ocp" type="462c0819:PsiDirectoryNode" />
               <item name="chapter5" type="462c0819:PsiDirectoryNode" />
               <item name="localization" type="462c0819:PsiDirectoryNode" />
-              <item name="addingInternalizationLocalization" type="462c0819:PsiDirectoryNode" />
+              <item name="resourceBundle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+              <item name="resourceBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="hidingVarInsideRB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+              <item name="resourceBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="hidingVarInsideRB" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,6 +332,9 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\OCP-Training\ocp-training\src\com\speksy\ocp\chapter5\localization\resources" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.speksy.ocp.chapter3.searchingAndSorting.example1" />
       <recent name="com.speksy.ocp.chapter3.genericsAndCollections.reviewOCACollections" />
@@ -262,58 +353,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PickingLocale">
-    <configuration name="DaylightSavingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter5.datesTimesZonesPeriodsDurationsInstants.daylightSavingTime.DaylightSavingDemo" />
+  <component name="RunManager" selected="Application.TestParamInResource">
+    <configuration name="AllKeysResourceBundle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter5.localization.resourceBundle.AllKeysResourceBundle" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter5.datesTimesZonesPeriodsDurationsInstants.daylightSavingTime.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter5.localization.resourceBundle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DurationsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter5.datesTimesZonesPeriodsDurationsInstants.durations.DurationsDemo" />
+    <configuration name="Tax_en_US" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter5.localization.resourceBundle.resourceBundles.Tax_en_US" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter5.datesTimesZonesPeriodsDurationsInstants.durations.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter5.localization.resourceBundle.resourceBundles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="InstantsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter5.datesTimesZonesPeriodsDurationsInstants.instants.InstantsDemo" />
+    <configuration name="TestParamInResource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter5.localization.resourceBundle.hidingVarInsideRB.TestParamInResource" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter5.datesTimesZonesPeriodsDurationsInstants.instants.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter5.localization.resourceBundle.hidingVarInsideRB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PickingLocale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter5.localization.addingInternalizationLocalization.PickingLocale" />
+    <configuration name="ZooOpen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter5.localization.resourceBundle.ZooOpen" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter5.localization.addingInternalizationLocalization.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter5.localization.resourceBundle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter5.localization.stringClass.StringsDemo" />
+    <configuration name="ZooTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter5.localization.resourceBundle.determineResourceBundles.ZooTest" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter5.localization.stringClass.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter5.localization.resourceBundle.determineResourceBundles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,19 +484,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.ocp-training" />
-      <item itemvalue="Application.DurationsDemo" />
-      <item itemvalue="Application.InstantsDemo" />
-      <item itemvalue="Application.DaylightSavingDemo" />
-      <item itemvalue="Application.StringsDemo" />
-      <item itemvalue="Application.PickingLocale" />
+      <item itemvalue="Application.ZooOpen" />
+      <item itemvalue="Application.AllKeysResourceBundle" />
+      <item itemvalue="Application.Tax_en_US" />
+      <item itemvalue="Application.ZooTest" />
+      <item itemvalue="Application.TestParamInResource" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PickingLocale" />
-        <item itemvalue="Application.StringsDemo" />
-        <item itemvalue="Application.DaylightSavingDemo" />
-        <item itemvalue="Application.InstantsDemo" />
-        <item itemvalue="Application.DurationsDemo" />
+        <item itemvalue="Application.TestParamInResource" />
+        <item itemvalue="Application.ZooTest" />
+        <item itemvalue="Application.Tax_en_US" />
+        <item itemvalue="Application.AllKeysResourceBundle" />
+        <item itemvalue="Application.ZooOpen" />
       </list>
     </recent_temporary>
   </component>
@@ -511,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525623906514</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update">
+      <created>1555624049498</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1555624049499</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -520,7 +618,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.49470645" weight="0.3315393" />
+      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.49470645" weight="0.3304904" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
@@ -531,14 +629,14 @@
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25832492" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.29465187" />
       <window_info anchor="bottom" id="Find" order="4" sideWeight="0.4990177" weight="0.38733906" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49951878" weight="0.39827773" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49951878" weight="0.3976546" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.24947807" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -569,105 +667,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_18/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="88" lean-forward="true" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_19/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_20/CanFly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_20/HasWings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter2/reviewQuestions/_20/Falcon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/implementSupplier/Supplier.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/BiFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/UnaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implConsumerAndBiConsumer/TestBiConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implFunctionAndBiFunction/TestBiFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implUnaryOperatorAndBinaryOperator/TestUnaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implUnaryOperatorAndBinaryOperator/TestBinaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/implFunctionAndBiFunction/TestFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -893,7 +892,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/daylightSavingTime/DaylightSavingDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -907,7 +906,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/durations/DurationsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -930,8 +929,137 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/addingInternalizationLocalization/PickingLocale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        <state relative-caret-position="2">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resources/Zoo_fr.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/ZooOpen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="93" selection-start-line="14" selection-start-column="93" selection-end-line="14" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resources/Zoo_en.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/CreateJavaClassResourceBundle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/AllKeysResourceBundle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/createJavaClassResourceBundle/Zoo_en.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/resourceBundles/Tax_en_US.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_fr.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_en_CA.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_en.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources/Zoo_fr_CA.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/ZooTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/hidingVarInsideRB/resources/ByName_en_US.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/hidingVarInsideRB/TestParamInResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
