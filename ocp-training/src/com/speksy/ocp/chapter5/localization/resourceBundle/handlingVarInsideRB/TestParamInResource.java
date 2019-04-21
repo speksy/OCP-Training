@@ -1,9 +1,11 @@
-package com.speksy.ocp.chapter5.localization.resourceBundle.hidingVarInsideRB;
+package com.speksy.ocp.chapter5.localization.resourceBundle.handlingVarInsideRB;
 
 import java.text.MessageFormat;
 import java.util.Locale;
 import java.util.ResourceBundle;
-
+/**
+ * @author speksy
+ */
 public class TestParamInResource {
     public static void main(String[] args) {
         Locale locale = new Locale("en", "US");

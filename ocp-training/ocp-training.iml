@@ -6,7 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/com/speksy/ocp/chapter5/localization/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/determineResourceBundles/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/hidingVarInsideRB/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/handlingVarInsideRB/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
