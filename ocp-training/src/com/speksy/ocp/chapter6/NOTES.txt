@@ -1,0 +1,21 @@
+Remember to pay attention that throw and throws aren’t reversed in the
+code that you see on the exam.
+
+rules from OCA
+ Java checks the catch blocks in the order in which they appear. It is illegal to declare
+a subclass exception in a catch block that is lower down in the list than a superclass
+exception because it will be unreachable code.
+
+ Java will not allow you to declare a catch block for a checked exception type
+that cannot potentially be thrown by the try clause body. This is again to avoid
+unreachable code.
+
+ When creating your own exception, you need to decide whether it should be a checked
+or unchecked exception. While you can extend any exception class, it is most common to
+extend Exception (for checked) or RuntimeException (for unchecked.)
+
+try {
+ throw new IOException();
+} catch (FileNotFoundException | IOException e) { } // DOES NOT COMPILE
+
+FileNotFoundException is subclass of IOException
