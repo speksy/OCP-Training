@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf0b8ed2-b269-48ab-b205-dfd930c090a9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/formattingDateTimes/FormattingDatesTimesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/formattingNumbers/FormatNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/exam.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocp-training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ocp-training.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/hidingVarInsideRB/TestParamInResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/handlingVarInsideRB/TestParamInResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/hidingVarInsideRB/resources/ByName_en_US.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/handlingVarInsideRB/resources/ByName_en_US.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,14 +95,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FormattingDatesTimesDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FormattingDatesTimesDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/formattingDateTimes/FormattingDatesTimesDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="47" column="80" selection-start-line="47" selection-start-column="80" selection-end-line="47" selection-end-column="80" />
+            <state relative-caret-position="542">
+              <caret line="52" column="59" lean-forward="true" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exam.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/exam.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -153,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/implPredicateAndBiPredicate/TestBiPredicate.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/implSupplier/TestSupplier.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/implUnaryOperatorAndBinaryOperator/TestUnaryOperator.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/genericsAndCollections/implUnaryOperatorAndBinaryOperator/TestBinaryOperator.java" />
@@ -204,6 +208,7 @@
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/formattingDateTimes/FormattingDateTimesDemo.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/formattingNumbers/FormatNumbers.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/formattingDateTimes/FormattingDatesTimesDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/exam.txt" />
       </list>
     </option>
   </component>
@@ -565,12 +570,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555777453285</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update">
+      <created>1555877828033</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1555877828033</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -623,13 +634,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/createJavaClassResourceBundle/Zoo_en.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/resourceBundles/Tax_en_US.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -983,11 +987,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/formattingDateTimes/FormattingDatesTimesDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="47" column="80" selection-start-line="47" selection-start-column="80" selection-end-line="47" selection-end-column="80" />
+        <state relative-caret-position="542">
+          <caret line="52" column="59" lean-forward="true" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/exam.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
