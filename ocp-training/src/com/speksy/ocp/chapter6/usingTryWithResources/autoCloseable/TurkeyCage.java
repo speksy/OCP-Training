@@ -1,4 +1,4 @@
-package com.speksy.ocp.chapter6.usingTryWithResources;
+package com.speksy.ocp.chapter6.usingTryWithResources.autoCloseable;
 
 public class TurkeyCage implements AutoCloseable{
 

@@ -1,4 +1,4 @@
-package com.speksy.ocp.chapter6.suppressedExceptions;
+package com.speksy.ocp.chapter6.usingTryWithResources.suppressedExceptions;
 
 public class JammedTurkeyCage implements AutoCloseable{
     public static void main(String[] args) {

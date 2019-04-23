@@ -1,4 +1,4 @@
-package com.speksy.ocp.chapter6.puttingItTogether;
+package com.speksy.ocp.chapter6.usingTryWithResources.puttingItTogether;
 
 public class Auto implements AutoCloseable {
     /*

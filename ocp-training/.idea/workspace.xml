@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf0b8ed2-b269-48ab-b205-dfd930c090a9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/NOTES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/creatingCustomExceptions/Dolphin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/puttingItTogether/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/suppressedExceptions/JammedTurkeyCage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/suppressedExceptions/JammedTurkeyCage2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingMultyCatch/BigMessOfExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingMultyCatch/MultyCatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingMultyCatch/MultyCatchDemoReduced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/NewApproachDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/OldApproachDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/ScopeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/StuckTurkeyCage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/Turkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/TurkeyCage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/rethrowingExceptions/RethrowingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/InternalInvariants/InternalInvariantDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/RectangleImproved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/controlFlowInvariants/Seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/controlFlowInvariants/TestSeasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/postConditions/PostConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/preconditions/Precondition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/puttingItTogether/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/puttingItTogether/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/suppressedExceptions/JammedTurkeyCage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/suppressedExceptions/JammedTurkeyCage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/suppressedExceptions/JammedTurkeyCage2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/suppressedExceptions/JammedTurkeyCage2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/StuckTurkeyCage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/autoCloseable/StuckTurkeyCage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/Turkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/autoCloseable/Turkey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/TurkeyCage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/autoCloseable/TurkeyCage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,53 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BigMessOfExceptions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingMultyCatch/BigMessOfExceptions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OldApproachDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/OldApproachDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScopeDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/ScopeDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Turkey.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/Turkey.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TurkeyCage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/TurkeyCage.java">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/autoCloseable/TurkeyCage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
                 <element signature="e#150#151#0" expanded="true" />
                 <element signature="e#198#199#0" expanded="true" />
@@ -94,10 +53,10 @@
         </entry>
       </file>
       <file leaf-file-name="StuckTurkeyCage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/StuckTurkeyCage.java">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/autoCloseable/StuckTurkeyCage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="464">
+              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
               <folding>
                 <element signature="e#1106#1107#0" expanded="true" />
                 <element signature="e#1129#1130#0" expanded="true" />
@@ -106,46 +65,85 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JammedTurkeyCage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/suppressedExceptions/JammedTurkeyCage.java">
+      <file leaf-file-name="InternalInvariantDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/InternalInvariants/InternalInvariantDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="85">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Auto.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/puttingItTogether/Auto.java">
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="170">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
               <folding>
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#596#597#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JammedTurkeyCage2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/suppressedExceptions/JammedTurkeyCage2.java">
+      <file leaf-file-name="Seasons.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/controlFlowInvariants/Seasons.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="51">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewApproachDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/NewApproachDemo.java">
+      <file leaf-file-name="TestSeasons.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/controlFlowInvariants/TestSeasons.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="187">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Precondition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/preconditions/Precondition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostConditions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/postConditions/PostConditions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assertions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/Assertions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RectangleImproved.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/RectangleImproved.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+              <folding>
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -158,6 +156,7 @@
       <list>
         <option value="Interface" />
         <option value="FxmlFile" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -184,17 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/functionalInterfacesForPrimitives/Example.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/LingingStreamsToData.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/ChainingOptionals.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/LinkingStreamsToData.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/ExceptionCaseStudy.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/BasicCollectors.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/creatingDateTime/CreateDateTime.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/manupulatingDatesTimes/ManipulatingDatesTimes.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/periods/PeriodsDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/durations/DurationsDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/InstantsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/daylightSavingTime/DaylightSavingDemo.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/instants/InstantsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/stringClass/StringsDemo.java" />
@@ -235,6 +223,17 @@
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/suppressedExceptions/JammedTurkeyCage.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/puttingItTogether/Aut.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/puttingItTogether/Auto.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/rethrowingExceptions/RethrowingDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/InternalInvariants/Assertions.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/InternalInvariants/InternalInvariant.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/InternalInvariants/InternalInvariantDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/preconditions/Precondition.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/postConditions/PostConditions.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/controlFlowInvariants/TestSeasons.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/controlFlowInvariants/Seasons.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/Assertions.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/RectangleImproved.java" />
       </list>
     </option>
   </component>
@@ -283,7 +282,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ocp" type="462c0819:PsiDirectoryNode" />
               <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="puttingItTogether" type="462c0819:PsiDirectoryNode" />
+              <item name="workingWithAssertions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocp-training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="workingWithAssertions" type="462c0819:PsiDirectoryNode" />
+              <item name="classInvariants" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -303,13 +311,16 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\git\OCP-Training\ocp-training\src\com\speksy\ocp\chapter5\localization\resources" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.speksy.ocp.chapter3.searchingAndSorting.example1" />
       <recent name="com.speksy.ocp.chapter3.genericsAndCollections.reviewOCACollections" />
       <recent name="ocp._2.designPatternsAndPrincipals.designPatterns.builderPattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.speksy.ocp.chapter6.workingWithAssertions.InternalInvariants" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\OCP-Training\ocp-training\src\com\speksy\ocp\chapter5\localization\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -324,58 +335,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Auto">
-    <configuration name="Auto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter6.puttingItTogether.Auto" />
+  <component name="RunManager" selected="Application.TestSeasons">
+    <configuration name="Assertions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter6.workingWithAssertions.Assertions" />
       <module name="ocp-training" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter6.puttingItTogether.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter6.workingWithAssertions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Dolphin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter6.creatingCustomExceptions.Dolphin" />
+    <configuration name="Auto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter6.usingTryWithResources.puttingItTogether.Auto" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter6.creatingCustomExceptions.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter6.usingTryWithResources.puttingItTogether.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="JammedTurkeyCage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter6.suppressedExceptions.JammedTurkeyCage" />
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter6.usingTryWithResources.suppressedExceptions.JammedTurkeyCage" />
       <module name="ocp-training" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter6.suppressedExceptions.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter6.usingTryWithResources.suppressedExceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JammedTurkeyCage2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter6.suppressedExceptions.JammedTurkeyCage2" />
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter6.workingWithAssertions.classInvariants.Rectangle" />
       <module name="ocp-training" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter6.suppressedExceptions.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter6.workingWithAssertions.classInvariants.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MultyCatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter6.usingMultyCatch.MultyCatchDemo" />
+    <configuration name="TestSeasons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.speksy.ocp.chapter6.workingWithAssertions.controlFlowInvariants.TestSeasons" />
       <module name="ocp-training" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.speksy.ocp.chapter6.usingMultyCatch.*" />
+          <option name="PATTERN" value="com.speksy.ocp.chapter6.workingWithAssertions.controlFlowInvariants.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -455,19 +469,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.ocp-training" />
-      <item itemvalue="Application.Dolphin" />
-      <item itemvalue="Application.MultyCatchDemo" />
       <item itemvalue="Application.JammedTurkeyCage" />
-      <item itemvalue="Application.JammedTurkeyCage2" />
       <item itemvalue="Application.Auto" />
+      <item itemvalue="Application.Assertions" />
+      <item itemvalue="Application.Rectangle" />
+      <item itemvalue="Application.TestSeasons" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSeasons" />
+        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.Assertions" />
         <item itemvalue="Application.Auto" />
         <item itemvalue="Application.JammedTurkeyCage" />
-        <item itemvalue="Application.JammedTurkeyCage2" />
-        <item itemvalue="Application.MultyCatchDemo" />
-        <item itemvalue="Application.Dolphin" />
       </list>
     </recent_temporary>
   </component>
@@ -601,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555944072480</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="chapter 6 - Exceptions and Assertions">
+      <created>1555968980827</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555968980827</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -616,12 +637,12 @@
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.14228052" side_tool="true" weight="0.26865673" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.8577195" visible="true" weight="0.1705757" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.8577195" visible="true" weight="0.23667377" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.41289702" weight="0.3315393" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23590814" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.27453026" />
       <window_info anchor="bottom" id="Find" order="4" sideWeight="0.4990177" weight="0.38699362" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
@@ -652,7 +673,8 @@
     <MESSAGE value="add questions answers to all chapter and add chapter 3 impl and answers" />
     <MESSAGE value="update" />
     <MESSAGE value="update chapter 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="update chapter 5" />
+    <MESSAGE value="chapter 6 - Exceptions and Assertions" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 6 - Exceptions and Assertions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -660,63 +682,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/usingOptionalPrimStreams/Examples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/summarizingStatistics/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/workingWithPrimitives/functionalInterfacesForPrimitives/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/puttingToghetherThePipeline/Pipeline.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/usingStreams/createingStreamSources/CreateStreamSources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/ChainingOptionals.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/LinkingStreamsToData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/ExceptionCaseStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/advancedStreamPipelineConcepts/BasicCollectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/creatingDateTime/CreateDateTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="421">
@@ -992,24 +957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/Turkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/TurkeyCage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/IllegalStateException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1021,10 +968,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/StuckTurkeyCage.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/suppressedExceptions/JammedTurkeyCage2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/suppressedExceptions/JammedTurkeyCage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/puttingItTogether/Auto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/rethrowingExceptions/RethrowingDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/autoCloseable/Turkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/autoCloseable/TurkeyCage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/autoCloseable/StuckTurkeyCage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
           <folding>
             <element signature="e#1106#1107#0" expanded="true" />
             <element signature="e#1129#1130#0" expanded="true" />
@@ -1032,29 +1034,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/suppressedExceptions/JammedTurkeyCage2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/InternalInvariants/InternalInvariantDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/suppressedExceptions/JammedTurkeyCage.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/preconditions/Precondition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="34">
+          <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/puttingItTogether/Auto.java">
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/postConditions/PostConditions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/controlFlowInvariants/Seasons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/controlFlowInvariants/TestSeasons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/Assertions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/RectangleImproved.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
           </folding>
         </state>
       </provider>
