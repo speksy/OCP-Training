@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf0b8ed2-b269-48ab-b205-dfd930c090a9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/TestExam" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/NOTES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/NOTES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/TestExam" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/TestExam" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,15 +39,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Seasons.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/controlFlowInvariants/Seasons.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestSeasons.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/controlFlowInvariants/TestSeasons.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,15 +48,6 @@
                 <element signature="e#853#854#0" expanded="true" />
                 <element signature="e#875#876#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Precondition.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/preconditions/Precondition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -90,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assertions.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Assertions.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/Assertions.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -115,17 +98,35 @@
       <file leaf-file-name="NOTES.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/NOTES.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state>
+              <caret column="70" lean-forward="true" selection-start-column="70" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestExam" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestExam" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/TestExam">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="794">
+              <caret line="81" column="68" lean-forward="true" selection-start-line="81" selection-start-column="68" selection-end-line="81" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Runnable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Runnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RuntimeException.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/RuntimeException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -164,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/instants/InstantsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/stringClass/StringsDemo.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/addingInternalizationLocalization/PickingLocale.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter5/localization/resourceBundle/Zoo_fr.properties" />
@@ -191,7 +191,6 @@
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/creatingCustomExceptions/Dolphin.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingMultyCatch/MultyCatchDemo.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingMultyCatch/MultyCatchDemoReduced.java" />
-        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/NOTES.txt" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingMultyCatch/BigMessOfExceptions.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/OldApproachDemo.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/ScopeDemo.java" />
@@ -214,7 +213,9 @@
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/RectangleImproved.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/postConditions/PostConditions.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/NewApproachDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/Test.java" />
         <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/TestExam" />
+        <option value="$PROJECT_DIR$/src/com/speksy/ocp/chapter6/NOTES.txt" />
       </list>
     </option>
   </component>
@@ -274,6 +275,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Runna&#9;PSI&#9;JAVA://java.lang.Runnable&#10;RuntimeExcep&#9;PSI&#9;JAVA://java.lang.RuntimeException" />
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -601,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556052239709</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update">
+      <created>1556130294056</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1556130294056</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -615,12 +624,12 @@
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.14228052" side_tool="true" weight="0.26865673" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.8577195" visible="true" weight="0.23667377" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.8577195" weight="0.23667377" />
       <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.41289702" weight="0.3315393" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.27453026" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24634655" />
       <window_info anchor="bottom" id="Find" order="4" sideWeight="0.4990177" weight="0.38699362" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
@@ -635,6 +644,35 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.24947807" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.8577195" visible="true" weight="0.23667377" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24634655" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Find" order="4" sideWeight="0.4990177" weight="0.38699362" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49951878" weight="0.3976546" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.14228052" side_tool="true" weight="0.26865673" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.41289702" weight="0.3315393" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="5" sideWeight="0.49470645" weight="0.3304904" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -649,11 +687,11 @@
     <MESSAGE value="update chapter 3" />
     <MESSAGE value="cleanup" />
     <MESSAGE value="add questions answers to all chapter and add chapter 3 impl and answers" />
-    <MESSAGE value="update" />
     <MESSAGE value="update chapter 5" />
     <MESSAGE value="chapter 6 - Exceptions and Assertions" />
     <MESSAGE value="chapter 6 - Exceptions and Assertions update" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 6 - Exceptions and Assertions update" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -661,27 +699,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/manupulatingDatesTimes/ManipulatingDatesTimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/time/Period.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="134" column="19" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter5/datesTimesZonesPeriodsDurationsInstants/periods/PeriodsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter4/lambdaBuildInFunctionalInterfaces/checkingFunctionalInterfaces/CheckThese.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1021,13 +1038,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/Assertions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1036,24 +1046,6 @@
             <element signature="e#638#639#0" expanded="true" />
             <element signature="e#688#689#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/RectangleImproved.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-          <folding>
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/NOTES.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -1074,10 +1066,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/usingTryWithResources/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/NOTES.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="70" lean-forward="true" selection-start-column="70" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/TestExam">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="794">
+          <caret line="81" column="68" lean-forward="true" selection-start-line="81" selection-start-column="68" selection-end-line="81" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/classInvariants/RectangleImproved.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/speksy/ocp/chapter6/workingWithAssertions/Assertions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
         </state>
       </provider>
     </entry>
