@@ -1,0 +1,16 @@
+For Interviews, Be Familiar with Thread-Creation Options
+Despite the fact that the exam no longer focuses on creating threads by extending the
+Thread class and implementing the Runnable interface, it is extremely common when
+interviewing for a Java development position to be asked to explain the difference
+between extending the Thread class and implementing Runnable. The following are some
+reasons to prefer one method over the other in Java:
+■ If you need to define your own Thread rules upon which multiple tasks will rely, such
+as a priority Thread, extending Thread may be preferable.
+■ Since Java doesn't support multiple inheritance, extending Thread does not allow you to
+extend any other class, whereas implementing Runnable lets you extend another class.
+■ Implementing Runnable is often a better object-oriented design practice since it separates the task being performed from the Thread object performing it.
+■ Implementing Runnable allows the class to be used by numerous Concurrency API
+classes.
+If asked this question, you should answer it accurately. You should also mention that you
+can now use the ExecutorService, which we will discuss in the next section, to perform
+thread tasks without having to create Thread objects directly.
