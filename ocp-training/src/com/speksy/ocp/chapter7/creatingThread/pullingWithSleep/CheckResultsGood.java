@@ -10,7 +10,7 @@ public class CheckResultsGood {
         });
 
         while (counter < 100) {
-//            System.out.println(counter);
+            System.out.println(counter);
             System.out.println("Not reached yet");
             Thread.sleep(1000); // 1 second
         }
