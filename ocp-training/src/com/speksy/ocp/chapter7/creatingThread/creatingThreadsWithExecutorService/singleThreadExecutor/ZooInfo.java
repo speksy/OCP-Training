@@ -1,4 +1,4 @@
-package com.speksy.ocp.chapter7.creatingThreadsWithExecutorService.singleThreadExecutor;
+package com.speksy.ocp.chapter7.creatingThread.creatingThreadsWithExecutorService.singleThreadExecutor;
 
 import java.util.concurrent.*;
 
